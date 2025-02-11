@@ -1,0 +1,1 @@
+<request verb="ListRecords" metadataPrefix="marc21" from="2024-01-01T00:00:00Z" until="2024-01-29T00:00:00Z">http://localhost:8080/server-papyrus/oai/tme</request><error code="cannotDisseminateFormat">Unknown metadata format</error></OAI-PMH>

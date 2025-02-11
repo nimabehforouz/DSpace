@@ -1,0 +1,3 @@
+2025-02-09 09:19:50.118 INFO bulk-access-control - 1 @ The script has started
+2025-02-09 09:19:50.203 INFO bulk-access-control - 1 @ Replacing Bitstream {40f6eaab-24da-4627-9663-d957eefd60eb} policy to access conditions:{embargo, start_date=2025-02-10}
+2025-02-09 09:19:50.208 INFO bulk-access-control - 1 @ The script has completed
