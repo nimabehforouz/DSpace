@@ -166,8 +166,8 @@
                 <ref bean="searchFilterSubject" />
                 <ref bean="searchFilterIssued" />
                 <ref bean="searchFilterContentInOriginalBundle"/>
-                <ref bean="searchFilterEntityType"/>
 				<ref bean="searchFilterType"/>
+                <ref bean="searchFilterEntityType"/>
             </list>
         </property>
         <!-- Set TagCloud configuration per discovery configuration -->
