@@ -49,3 +49,7 @@ rebel.xml
 log\
 log\*
 log\*.log* 
+webapps/
+lib/
+config/
+solr
