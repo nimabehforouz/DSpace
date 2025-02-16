@@ -47,3 +47,8 @@ rebel.xml
 
 ## Ignore jenv configuration
 .java-version
+log/
+config/
+lib/
+solr/
+webapps/
